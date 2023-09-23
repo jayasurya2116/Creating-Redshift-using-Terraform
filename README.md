@@ -35,9 +35,9 @@ Make sure terraform is installed
 
 Step 3:
 
-terraform init
-terraform plan
-terraform apply
+> terraform init
+> terraform plan
+> terraform apply
 
 Step 4:
 
