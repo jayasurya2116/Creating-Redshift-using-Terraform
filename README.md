@@ -11,6 +11,28 @@ Step 2:
 
 terraform installed locally with your AWS credentials configured.
 
+Follow following steps
+
+1) Install AWS CLI
+ https://awscli.amazonaws.com/AWSCLIV2.msi (64 bit for windows)
+
+2) Check the version to verify for correct installation
+aws --version
+aws-cli/2.13.21 Python/3.11.5 Windows/10 exe/AMD64 prompt/off
+
+3) Access
+   Create Used group with required access from aws and download access key
+   
+4) AWS CLI Configiration
+cmd: aws configure
+AWS Access Key ID [None]: 
+AWS Secret Access Key [None]: 
+Default region name [None]: 
+Default output format [None]: json
+
+5) Terraform 
+Make sure terraform is installed
+
 Step 3:
 
 terraform init
