@@ -38,9 +38,12 @@ Step 3:
 > terraform init,
 > terraform plan,
 > terraform apply
-![image](https://github.com/jayasurya2116/Creating-Redshift-using-Terraform/assets/69743788/add09e99-6756-41cc-9f01-8e79ee95c8d7)
+
 
 Step 4:
 
 Redshift pricing starts in the the region of $219/month, so always make sure you either pause or destroy the cluser when you no longer need it.
 terraform Destroy
+
+terraform destory
+
