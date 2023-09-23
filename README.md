@@ -38,6 +38,7 @@ Step 3:
 > terraform init,
 > terraform plan,
 > terraform apply
+![image](https://github.com/jayasurya2116/Creating-Redshift-using-Terraform/assets/69743788/add09e99-6756-41cc-9f01-8e79ee95c8d7)
 
 Step 4:
 
