@@ -3,7 +3,7 @@ Description:
 Redshift is expensive to run, so I created this GitHub with the sole intention of having a handy way to create and destroy a terraform cluster.
 
 Step 1:
-We will use the following Terraform snippet to create a Redshift cluster. We will also hold our newly created Redshift secrets inside of SecretsManager so we can access the cluster later.
+We will use the Terraform snippet to create a Redshift cluster. We will also hold our newly created Redshift secrets inside of SecretsManager so we can access the cluster later.
 
 file name: main.tf
 
